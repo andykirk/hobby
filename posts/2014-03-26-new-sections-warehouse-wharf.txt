@@ -1,0 +1,11 @@
+{
+"title"    : "New Board Sections - Warehouse and Wharf",
+"author"   : "Andy",
+"date"     : "26-03-2014",
+"tag"      : "Board Sections",
+"category" : "Warhammer Quest Board Sections"
+}
+
+I've added two new [board sections](/warhammer-quest-board-sections) a [Warehouse](/warhammer-quest-board-sections#warehouse) and [Wharf](/warhammer-quest-board-sections#wharf) with/without [jetty](/warhammer-quest-board-sections#wharf-and-jetty), with and without a boat.
+
+These sections represent the first in what I hope will be two full (ongoing) board sets - the 'Wooden Floor' set (Warehouse) and the 'City' set (Wharf).

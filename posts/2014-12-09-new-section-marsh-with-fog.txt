@@ -1,0 +1,11 @@
+{
+"title"    : "New Board Section - Marsh with fog",
+"author"   : "Andy",
+"date"     : "09-12-2014",
+"tag"      : "Board Sections",
+"category" : "Warhammer Quest Board Sections"
+}
+
+I've added another new [board sections](/warhammer-quest-board-sections): a [Marsh with fog](/warhammer-quest-board-sections#marsh-with-fog) section.
+
+I hope to eventually add more boards with this theme.
